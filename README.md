@@ -45,7 +45,7 @@ You must submit 10 potential questions you would receive in a presentation along
 
 
 # Summary of Skills
-coming soon
+I used the python environment to perform my exploratory data analysis. I also used the Pandas, Seaborn, Matplotlib, Numpy packages and Micosoft's Power BI application for these projects.
 
 # Preview
 
@@ -59,10 +59,10 @@ coming soon
 
 
 # Findings
-coming soon
+Each of these projects are domain agnostic, data agnostic, and method agnostic. This means that you can pull data from any domain, analyze it using whatever method you deem worthy, and use data that already exists in any form.
 
 ## Project One
-coming soon
+Developing and testing three predictive models, the accuracy of the models were good. Only two of the three models had higher accuracy rates. The accuracy rate could have been higher if the dataset had more data. Other than that, this is a great outcome for this project. 
 
 ## Project Two
 coming soon
@@ -71,7 +71,7 @@ coming soon
 # Challenges
 
 ## Project One
-coming soon
+The only issue is with this dataset is that it has a limited amount of data. This will hinder the scalability of this predictive model in the future of this project.
 
 ## Project Two
 coming soon
@@ -80,7 +80,7 @@ coming soon
 # Conclusion
 
 ## Project One
-coming soon
+The focus of this project was to see if it is possible to use health insurance data to predict insurance rates based on features. The Polynomial Regression model was the best model that has had the highest accuracy rate. The Polynomial Regression model’s accuracy was 85% and it will be able to predict accurate insurance rates. 
 
 ## Project Two
 coming soon
