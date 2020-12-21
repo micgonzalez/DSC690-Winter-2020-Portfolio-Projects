@@ -50,7 +50,9 @@ I used the python environment to perform my exploratory data analysis. I also us
 # Preview
 
 ## Project One 
-coming soon
+![Preview of the Scatter Plot created from this project.](https://github.com/micgonzalez/DSC690-Winter-2020-Portfolio-Projects/blob/main/project_one/dsc_690_insurance_polynomial_y_pred_and_test_data_scatterplot.png)
+
+This scatter plot was created from this project to convey my findings from the polynomial model to the public.
 
 
 ## Project Two 
