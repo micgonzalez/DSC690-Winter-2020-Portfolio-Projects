@@ -56,7 +56,9 @@ This scatter plot was created from this project to convey my findings from the p
 
 
 ## Project Two 
-coming soon
+![Preview from this project.](https://github.com/micgonzalez/DSC690-Winter-2020-Portfolio-Projects/blob/main/project_two/DSC690_project_2_data_log_regression_accurate.png)
+
+This was created from this project to convey my findings to the public.
 
 
 
@@ -67,7 +69,7 @@ Each of these projects are domain agnostic, data agnostic, and method agnostic. 
 Developing and testing three predictive models, the accuracy of the models were good. Only two of the three models had higher accuracy rates. The accuracy rate could have been higher if the dataset had more data. Other than that, this is a great outcome for this project. 
 
 ## Project Two
-coming soon
+Developing and testing three predictive models, the accuracy of two models was fantastic. The logistic regression model and the support vector machine model were the best models that had good accuracy rates.
 
 
 # Challenges
@@ -76,7 +78,7 @@ coming soon
 The only issue is with this dataset is that it has a limited amount of data. This will hinder the scalability of this predictive model in the future of this project.
 
 ## Project Two
-coming soon
+The only issue is with this dataset, I had to change some variables to categorical data types to make it easier to with on. This was a small issue for this project. Including more datasets from different sources will likely help from dealing with other issues.
 
 
 # Conclusion
@@ -85,4 +87,4 @@ coming soon
 The focus of this project was to see if it is possible to use health insurance data to predict insurance rates based on features. The Polynomial Regression model was the best model that has had the highest accuracy rate. The Polynomial Regression model’s accuracy was 85% and it will be able to predict accurate insurance rates. 
 
 ## Project Two
-coming soon
+The focus of this project was to see if it is possible to predict if a person would have a cardiovascular disease based on features. From the look of the accuracy rate of the naïve bayes classifier. The rate is not on the same level as the other two models. To be honest, 58%  accuracy rate is not bad, but when comparing to the other models. The logistic regression model and the support vector machine model was 72% and with more time the accuracy rate could be higher.
