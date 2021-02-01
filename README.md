@@ -1,13 +1,13 @@
-# DSC690 Winter 2020 Portfolio Projects
+# Winter 2020/2021 Portfolio Projects
 
 
 # Introduction
-This repository is a portfolio of DSC 690 projects for Winter 2020. This portfolio will be split into two projects that include analyses and presentations of data. These projects will display my understanding of the skill learned in Bellevue University's Data Science course. Please enjoy looking through the projects.
+This repository is another portfolio project of the Winter 2020/2021 season. This portfolio will be split into two projects that include analyses and presentations of data. These projects will display my understanding of the skill learned in Bellevue University's Data Science course. Please enjoy looking through the projects.
 
 
 
 # Abstract
-The following areas of this portfolio repository will discuss and explain the objectives of the projects. With this in mind, it is time to talk about the parameters of these projects. Here are the parameters of each of the projects. 
+The following areas of this portfolio repository will discuss and explain the objectives of the projects. With this in mind, it is time to talk about the parameters of these projects. Here are the parameters of each of the projects that will include the item below. 
 
 
 • Report/White Paper
